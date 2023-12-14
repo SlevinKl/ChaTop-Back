@@ -1,4 +1,4 @@
-package com.chatop.ChaTop;
+package com.chatop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class ChaTopApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ChaTopApplication.class, args);
 	}
-
 }
